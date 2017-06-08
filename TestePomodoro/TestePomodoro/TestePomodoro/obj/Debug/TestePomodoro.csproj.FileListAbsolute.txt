@@ -1,0 +1,9 @@
+c:\users\ciril\documents\visual studio 2015\Projects\TestePomodoro\TestePomodoro\bin\Debug\TestePomodoro.exe.config
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\bin\Debug\TestePomodoro.exe
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\bin\Debug\TestePomodoro.pdb
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\obj\Debug\TestePomodoro.csprojResolveAssemblyReference.cache
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\obj\Debug\TestePomodoro.Form1.resources
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\obj\Debug\TestePomodoro.Properties.Resources.resources
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\obj\Debug\TestePomodoro.csproj.GenerateResource.Cache
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\obj\Debug\TestePomodoro.exe
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\TestePomodoro\TestePomodoro\obj\Debug\TestePomodoro.pdb
